@@ -9,7 +9,7 @@ working:
       1. You can give your own password or 
       2. press generate password it create a strong password
       
-      once you click ADD button it pop-up a message and then password ,email are append to .txt file
+  once you click ADD button it pop-up a message and then password ,email are append to .txt file
       
 
 
